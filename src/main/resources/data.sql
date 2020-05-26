@@ -1,0 +1,9 @@
+insert into category (dept_name) values ('American');
+insert into category (dept_name) values ('Indian');
+insert into category (dept_name) values ('Italian');
+insert into category (dept_name) values ('Mexican');
+insert into unit_of_measure (uom) values ('Teaspoon');
+insert into unit_of_measure (uom) values ('Tablespoon');
+insert into unit_of_measure (uom) values ('Cup');
+insert into unit_of_measure (uom) values ('Pinch');
+insert into unit_of_measure (uom) values ('Ounce');
